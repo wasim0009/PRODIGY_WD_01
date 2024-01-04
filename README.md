@@ -7,7 +7,9 @@ Certainly! Below is a sample description for a Nike ordering website that you ca
 Welcome to the Nike Ordering Website! This web application is a simple and user-friendly platform that allows users to browse, select, and order Nike products online. Whether you're a sneaker enthusiast or in need of high-quality athletic gear, this website provides a seamless shopping experience.
 ![image](https://github.com/wasim0009/PRODIGY_WD_01/assets/117257818/93d63ab9-dddc-458b-a363-b9928bf11069)
 ![image](https://github.com/wasim0009/PRODIGY_WD_01/assets/117257818/c598d6f8-8fe8-4885-bf91-4c027cd09374)
-![image](https://github.com/wasim0009/PRODIGY_WD_01/assets/117257818/29f3188d-3ae1-498d-9dc1-565a5a5b3e3a)
+
+
+![image](https://github.com/wasim0009/PRODIGY_WD_01/assets/117257818/84b0d4cc-65fa-4e4d-be4f-22ed2793b080)
 
 ![image](https://github.com/wasim0009/PRODIGY_WD_01/assets/117257818/e2aac417-e04a-4df5-ab5b-3649036143b2)
 
